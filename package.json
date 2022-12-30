@@ -19,7 +19,7 @@
   "homepage": "https://github.com/turingschool/javascript-exercises#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
